@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "776709792419",
+    "firebase_url": "https://vehicle-aaf20-default-rtdb.firebaseio.com",
+    "project_id": "vehicle-aaf20",
+    "storage_bucket": "vehicle-aaf20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776709792419:android:e767e0c8f7cd30465d9516",
+        "android_client_info": {
+          "package_name": "com.example.vehicle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7W5f93xn_gY6-n2MT5k-6qPvkwzyerzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

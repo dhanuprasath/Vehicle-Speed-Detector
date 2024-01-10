@@ -1,0 +1,22 @@
+Index: app/src/main/AndroidManifest.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/AndroidManifest.xml b/app/src/main/AndroidManifest.xml
+--- a/app/src/main/AndroidManifest.xml	(date 1694498771382)
++++ b/app/src/main/AndroidManifest.xml	(date 1694498771382)
+@@ -13,7 +13,12 @@
+         android:theme="@style/Theme.Vehicle">
+         <activity
+             android:name=".startstop"
+-            android:exported="false" /> <!-- Main Activity -->
++            android:exported="false" />
++        <activity
++            android:name=".MainActivity"
++            android:exported="false">
++        </activity>
++        <!-- Main Activity -->
+         <activity
+             android:name=".vehicletype"
+             android:exported="false">
